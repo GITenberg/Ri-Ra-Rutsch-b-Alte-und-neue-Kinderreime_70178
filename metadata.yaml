@@ -1,0 +1,24 @@
+_repo: Ri-Ra-Rutsch-b-Alte-und-neue-Kinderreime_70178
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Koch, Paul
+    gutenberg_agent_id: '55641'
+    url: http://www.gutenberg.org/2009/agents/55641
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70178'
+language: de
+pgterms:marc905: 20210321063157koch
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bStern Bücher Verlag, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ri-Ra-Rutsch : $b Alte und neue Kinderreime'
+url: http://www.gutenberg.org/ebooks/70178
