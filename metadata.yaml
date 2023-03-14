@@ -1,11 +1,16 @@
 _repo: Ri-Ra-Rutsch-b-Alte-und-neue-Kinderreime_70178
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70178-h/images/cover.jpg
 creator:
   editor:
     agent_name: Koch, Paul
     gutenberg_agent_id: '55641'
     url: http://www.gutenberg.org/2009/agents/55641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70178#Ri-Ra-Rutsch-b-Alte-und-neue-Kinderreime
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70178'
